@@ -19,10 +19,6 @@ class Main extends Component {
   }
 
   render() {
-    console.log("this.state.dishes")
-    console.log(this.state.dishes)
-    console.log("this.state.selectedDish")
-    console.log(this.state.selectedDish)
     return (
       <div>
         <Navbar dark color="primary">
